@@ -1,7 +1,8 @@
 # coderetreat-pocketmod
 
-Inspired by Julia Evans [Wizard Zines](https://wizardzines.com/) and [pocketmod](https://pocketmod.com/) 
-to give to people during a [codertreat](hhtps://coderetreat.org) or for spreading the word.
+Inspired by Julia Evans [Wizard Zines](https://wizardzines.com/) and [pocketmod](https://pocketmod.com/).
+
+A leaflet/foldlet/booklet to give to people at a [codertreat](hhtps://coderetreat.org) or for spreading the word.
 
 ## References
 
