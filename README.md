@@ -3,6 +3,7 @@
 Inspired by Julia Evans [Wizard Zines](https://wizardzines.com/) and [pocketmod](https://pocketmod.com/).
 
 A leaflet/foldlet/booklet to give to people at a [codertreat](hhtps://coderetreat.org) or for spreading the word.
+For folding instructions see [pocketmod](https://pocketmod.com/).
 
 ## References
 
