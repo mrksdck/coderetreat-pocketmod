@@ -2,9 +2,13 @@
 
 Inspired by Julia Evans [Wizard Zines](https://wizardzines.com/) and [pocketmod](https://pocketmod.com/).
 
-A [leaflet/foldlet/booklet](coderetreat-pocketmod-booklet.pdf) to give to people at a [codertreat](hhtps://coderetreat.org) or for spreading the word.
+A [leaflet/foldlet/booklet](coderetreat-pocketmod-booklet.pdf) to give to people at a [codertreat](https://coderetreat.org) or for spreading the word.
+
+Print with 100% scale instead of 'fit to page'.
 
 For folding instructions see [how to](https://pocketmod.com/howto).
+
+Many thanks to the community around [codertreat](https://coderetreat.org).
 
 ## References
 
