@@ -2,7 +2,7 @@
 
 Inspired by Julia Evans [Wizard Zines](https://wizardzines.com/) and [pocketmod](https://pocketmod.com/).
 
-A leaflet/foldlet/booklet to give to people at a [codertreat](https://coderetreat.org) or for spreading the word.
+A leaflet/foldlet/booklet to give to people at a [coderetreat](https://coderetreat.org) or for spreading the word.
 
 Download [booklet](coderetreat-pocketmod-booklet.pdf).
 
