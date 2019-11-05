@@ -12,7 +12,7 @@ For folding instructions see [how to](https://pocketmod.com/howto).
 
 Many thanks to the community around [coderetreat](https://coderetreat.org).
 
-This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Cretive Commons Attribution Share Alike 4.0 International License</a>.
+This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution Share Alike 4.0 International License</a>.
 
 ## References
 
