@@ -10,7 +10,7 @@ Print with 100% scale instead of 'fit to page'.
 
 For folding instructions see [how to](https://pocketmod.com/howto).
 
-Many thanks to the community around [codertreat](https://coderetreat.org).
+Many thanks to the community around [coderetreat](https://coderetreat.org).
 
 ## References
 
