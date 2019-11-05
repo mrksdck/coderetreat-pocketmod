@@ -12,6 +12,8 @@ For folding instructions see [how to](https://pocketmod.com/howto).
 
 Many thanks to the community around [coderetreat](https://coderetreat.org).
 
+Used [pdfjam-pocketmod](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/firth/software/pdfjam/) to create out of 8 page pdf the booklet.
+
 This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution Share Alike 4.0 International License</a>.
 
 ## References
