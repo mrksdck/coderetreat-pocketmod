@@ -1,4 +1,4 @@
-# coderetreat-pocketmod
+# coderetreat-pocketmod 
 
 Inspired by Julia Evans [Wizard Zines](https://wizardzines.com/) and [pocketmod](https://pocketmod.com/).
 
@@ -11,6 +11,8 @@ Print with 100% scale instead of 'fit to page'.
 For folding instructions see [how to](https://pocketmod.com/howto).
 
 Many thanks to the community around [coderetreat](https://coderetreat.org).
+
+This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Cretive Commons Attribution Share Alike 4.0 International License</a>.
 
 ## References
 
@@ -28,4 +30,5 @@ Many thanks to the community around [coderetreat](https://coderetreat.org).
 * [Understanding the Four Rules of Simple Design](https://leanpub.com/4rulesofsimpledesign) - Corey Haines
 * [Strong Style Pairing](https://leanpub.com/StrongStylePairProgramming) - Maaret Pyhäjärvi
 * [Coderetreat - hosting and facilitating](https://leanpub.com/coderetreat) - Adrian Bolboacă and Alexandru Bolboacă
+
 
