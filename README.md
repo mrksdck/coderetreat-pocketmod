@@ -6,7 +6,7 @@ A leaflet/foldlet/booklet to give to people at a [coderetreat](https://coderetre
 
 Download [booklet](coderetreat-pocketmod-booklet.pdf).
 
-*Printing* : Print near to 100% scale instead of 'fit to page', some printers have smaller printable areas, so you need to adjust the scale maybe down to 98%.
+Printing : Print near to 100% scale instead of 'fit to page', some printers have smaller printable areas, so you need to adjust the scale maybe down to 98%.
 
 For folding instructions see [how to](https://pocketmod.com/howto).
 
