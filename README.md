@@ -4,7 +4,9 @@ Inspired by Julia Evans [Wizard Zines](https://wizardzines.com/) and [pocketmod]
 
 A leaflet/foldlet/booklet to give to people at a [coderetreat](https://coderetreat.org) or for spreading the word.
 
-Download [booklet](coderetreat-pocketmod-booklet.pdf).
+Download booklet:
+* [handwritten with DIY vibe](coderetreat-pocketmod-booklet.pdf).
+* [coderetreat.org styled](coderetreat-pocketmod-mediapack.pdf)
 
 Printing : Print near to 100% scale instead of 'fit to page', some printers have smaller printable areas, so you need to adjust the scale maybe down to 98%.
 
